@@ -27,17 +27,17 @@ __2017__ | __1st Place__
 <img src="/assets/images/constela-cafe-logo-green-pronto.png" alt="Constela Cafe Logo" style="width:10vw">
 </a>
 
-Constela is a specialty coffee shop committed to both excellent service and giving the best cup of coffee to each customer. We have two locations in Mexico City, one on Ferrocarril de Cuernavaca in Polanco and another on Colima in Roma Norte
-I've worked there since it's inception on the concept and quality of coffee and now I am a Barista Trainer, Brand Ambassador y Roasting Manager
+Constela is a specialty coffee shop committed to both excellent service and giving the best cup of coffee to each customer. We have two locations in Mexico City, one on Ferrocarril de Cuernavaca in Polanco and another on Colima in Roma Norte.  
+I've worked there since it's inception on the concept and quality of coffee and now I am a Barista Trainer, Brand Ambassador y Roasting Manager.  
 For more information visit us on Instagram [@constelacafe](https://www.instagram.com/constelacafe/?hl=en)
 
 ## Elemento Cafe | 2020-present
 <a href="https://www.instagram.com/elementocafe/">
 <img src="/assets/images/elemento.png" alt="Constela Cafe Logo" style="width:10vw">
 </a>  
-Elemento is my personal brand of roasted coffee that I sill to cafes and restaurants.
-I believe that everyone deserves a good cup of coffee, without it being expensive.
-For information and orders, send me an email at [ariadna.chaparro@yahoo.com.mx](ariadna.chaparro@yahoo.com.mx)
+Elemento is my personal brand of roasted coffee that I sill to cafes and restaurants.  
+I believe that everyone deserves a good cup of coffee, without it being expensive.  
+For information and orders, send me an email at [ariadna.chaparro@yahoo.com.mx](mailto:ariadna.chaparro@yahoo.com.mx)
 
 # Past Experience
 * __Starbucks \| 2011-2015__

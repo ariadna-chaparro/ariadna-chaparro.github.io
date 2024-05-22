@@ -35,9 +35,9 @@ Para mas información nos visitamos por Instagram [@constelacafe](https://www.in
 <a href="https://www.instagram.com/elementocafe/">
 <img src="/assets/images/elemento.png" alt="Constela Cafe Logo" style="width:10vw">
 </a>  
-Elemento es mi propia marca de cafe tostado que vendo a cafeterias y restaurantes.
+Elemento es mi propia marca de cafe tostado que vendo a cafeterias y restaurantes.  
 Creo que un buen café lo merecemos todos, sin un sobreprecio.  
-Para información y pedidos, mándame un correo por [ariadna.chaparro@yahoo.com.mx](ariadna.chaparro@yahoo.com.mx)
+Para información y pedidos, mándame un correo por [ariadna.chaparro@yahoo.com.mx](mailto:ariadna.chaparro@yahoo.com.mx)
 
 # Experiencia Pasada
 * __Starbucks \| 2011-2015__
