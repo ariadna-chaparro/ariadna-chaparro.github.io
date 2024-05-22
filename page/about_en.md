@@ -24,7 +24,7 @@ __2017__ | __1st Place__
 # Current
 ## Constela | 2019-present
 <a href="https://www.instagram.com/constelacafe/?hl=en">
-<img src="/assets/images/constela-cafe-logo-green-pronto.png" alt="Constela Cafe Logo" style="width:10vw">
+<img src="/assets/images/constela-cafe-logo-green-pronto.png" alt="Constela Cafe Logo" style="width:250px">
 </a>
 
 Constela is a specialty coffee shop committed to both excellent service and giving the best cup of coffee to each customer. We have two locations in Mexico City, one on Ferrocarril de Cuernavaca in Polanco and another on Colima in Roma Norte.  
@@ -33,7 +33,7 @@ For more information visit us on Instagram [@constelacafe](https://www.instagram
 
 ## Elemento Cafe | 2020-present
 <a href="https://www.instagram.com/elementocafe/">
-<img src="/assets/images/elemento.png" alt="Constela Cafe Logo" style="width:10vw">
+<img src="/assets/images/elemento.png" alt="Constela Cafe Logo" style="width:250px">
 </a>  
 Elemento is my personal brand of roasted coffee that I sill to cafes and restaurants.  
 I believe that everyone deserves a good cup of coffee, without it being expensive.  

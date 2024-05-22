@@ -24,7 +24,7 @@ __2017__ | __1° Lugar__
 # Actualmente
 ## Constela | 2019-presente
 <a href="https://www.instagram.com/constelacafe/?hl=en">
-<img src="/assets/images/constela-cafe-logo-green-pronto.png" alt="Constela Cafe Logo" style="width:10vw">
+<img src="/assets/images/constela-cafe-logo-green-pronto.png" alt="Constela Cafe Logo" style="width:250px">
 </a>
 
 Constela es una cafetería de especialidad comprometida tanto en servicio como en dar la mejor taza a cada cliente. Tenemos dos sucursales, uno por Ferrocarril de Cuernavaca en Polanco y uno por Colima en Roma Nte.  
@@ -33,7 +33,7 @@ Para mas información nos visitamos por Instagram [@constelacafe](https://www.in
 
 ## Elemento Cafe | 2020-presente
 <a href="https://www.instagram.com/elementocafe/">
-<img src="/assets/images/elemento.png" alt="Constela Cafe Logo" style="width:10vw">
+<img src="/assets/images/elemento.png" alt="Constela Cafe Logo" style="width:250px">
 </a>  
 Elemento es mi propia marca de cafe tostado que vendo a cafeterias y restaurantes.  
 Creo que un buen café lo merecemos todos, sin un sobreprecio.  
