@@ -9,36 +9,42 @@ permalink: /
 <p style="font-size:30px;font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;"> Tostador por Elemento Cafe, Campeon Nacional Barista, y Barista Trainer (AST) </p>
 
 # Premios
-## Competencia Mexicana de Baristas
-2016 | 3° Lugar  
-__2017__ | __1° Lugar__  
-2018 | 2° Lugar *
-2022 | 2° Lugar    
-2023 | 3° Lugar  
-
 ## World Barista Championship
 2018 | Representante de Mexico en La Competencia Mundial de Baristas Amsterdam
 
+## Competencia Mexicana de Baristas
+2016 | 3° Lugar  
+__2017__ | __1° Lugar__
+2018 | 2° Lugar
+2022 | 2° Lugar    
+2023 | 3° Lugar  
 
 # Proyectos
 
 ## Elemento Cafe | 2020-presente
 <a href="https://www.instagram.com/elementocafe/">
-<img src="/assets/images/elemento.png" alt="Constela Cafe Logo" style="width:250px">
+<img src="/assets/images/elemento.png" alt="Constela Cafe Logo" style="width:150px">
 </a>  
 Elemento es mi propia marca de cafe tostado que vendo a cafeterias y restaurantes.  
 Creo que un buen café lo merecemos todos, sin un sobreprecio.  
 Para información y pedidos, mándame un correo por [ariadna.chaparro@yahoo.com.mx](mailto:ariadna.chaparro@yahoo.com.mx)
 
 ## Constela | 2019-presente
-<a href="https://www.instagram.com/constelacafe/?hl=en">
+<a href="https://www.instagram.com/constelacafe/?hl=es">
 <img src="/assets/images/constela-cafe-logo-green-pronto.png" alt="Constela Cafe Logo" style="width:150px">
 </a>
 
-Constela es una cafetería de especialidad comprometida tanto en servicio como en dar la mejor taza a cada cliente. Tenemos dos sucursales, uno por Ferrocarril de Cuernavaca en Polanco y uno por Colima en Roma Nte.  
-Trabaje hace el comienzo en el concepto y calidad de bebidas y actualmente soy Barista Trainer, Imagen de la Marca y Gerente de Tostar.  
-Para mas información nos visitamos por Instagram [@constelacafe](https://www.instagram.com/constelacafe/?hl=en)
+Constela es una cafetería de especialidad comprometida tanto en servicio como en dar la mejor taza a cada cliente. Con dos sucursales, uno por Ferrocarril de Cuernavaca en Polanco y uno por Colima en Roma Nte.  
+Planificacion del concepto y calidad de bebidas y actualmente soy Barista Trainer, Imagen de la Marca y Head Roaster.  
+Màs Informacion: [@constelacafe](https://www.instagram.com/constelacafe/?hl=es)
 
+# Collaboraciones
+* Oster
+* Royal Prestige
+* Alpura Selecta
+* City Market
+* Embajada de Indonesia
+* San Remo Coffee Machines
 
 # Experiencia Pasada
 * __San Remo Latin \| 2015-2019__
