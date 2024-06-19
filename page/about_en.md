@@ -9,6 +9,9 @@ title: About
 <p style="font-size:30px;font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;">Coffee Roaster for Elemento Cafe, Barista Champion and Barista Trainer (AST) </p>
 
 # Awards
+## World Barista Championship
+2018 | Mexican Representative at the World Barista Championship in Amsterdam
+
 ## Mexican National Barista Competition
 2016 | 3rd Place  
 __2017__ | __1st Place__  
@@ -16,11 +19,7 @@ __2017__ | __1st Place__
 2022 | 2nd Place  
 2023 | 3rd Place  
 
-## World Barista Championship
-2018 | Mexican Representative at the World Barista Championship in Amsterdam
-
-
-# Current
+# Projects
 
 ## Elemento Cafe | 2020-present
 <a href="https://www.instagram.com/elementocafe/">
@@ -33,13 +32,12 @@ For information and orders, send me an email at [ariadna.chaparro@yahoo.com.mx](
 ## Constela | 2019-present
 <a href="https://www.instagram.com/constelacafe/?hl=en">
 <img src="/assets/images/constela-cafe-logo-green-pronto.png" alt="Constela Cafe Logo" style="width:150px">
-</a>
+</a>  
 Constela is a specialty coffee shop committed to both excellent service and giving the best cup of coffee to each customer. There are two locations in Mexico City, one on Ferrocarril de Cuernavaca in Polanco and another on Colima in Roma Norte.  
 I've worked there since it's inception on the concept and quality of coffee and now I am a Barista Trainer, Brand Ambassador y Head Roaster.  
 More Information [@constelacafe](https://www.instagram.com/constelacafe/?hl=en)
 
-# Collaboraciones
-
+# Collaborations
 * Oster
 * Royal Prestige
 * Alpura Selecta
