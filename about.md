@@ -6,30 +6,21 @@ permalink: /
 
 <img src="/assets/images/Ariadna-Chaparro_barista-1024x576.jpg" alt="Portrait of Ariadna Chaparro" style="width:90vw">
 
-<p style="font-size:30px;font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;"> Tostadora, SCA Entrenadora, y Barista Campeona</p>
+<p style="font-size:30px;font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;"> Tostador por Elemento Cafe, Campeon Nacional Barista, y Barista Trainer (AST) </p>
 
 # Premios
 ## Competencia Mexicana de Baristas
 2016 | 3° Lugar  
 __2017__ | __1° Lugar__  
-2018 | 2° Lugar  
-2022 | 2° Lugar  
-2022 | 2° Lugar  
+2018 | 2° Lugar *
+2022 | 2° Lugar    
 2023 | 3° Lugar  
 
 ## World Barista Championship
 2018 | Representante de Mexico en La Competencia Mundial de Baristas Amsterdam
 
 
-# Actualmente
-## Constela | 2019-presente
-<a href="https://www.instagram.com/constelacafe/?hl=en">
-<img src="/assets/images/constela-cafe-logo-green-pronto.png" alt="Constela Cafe Logo" style="width:250px">
-</a>
-
-Constela es una cafetería de especialidad comprometida tanto en servicio como en dar la mejor taza a cada cliente. Tenemos dos sucursales, uno por Ferrocarril de Cuernavaca en Polanco y uno por Colima en Roma Nte.  
-Trabaje hace el comienzo en el concepto y calidad de bebidas y actualmente soy Barista Trainer, Imagen de la Marca y Gerente de Tostar.  
-Para mas información nos visitamos por Instagram [@constelacafe](https://www.instagram.com/constelacafe/?hl=en)
+# Proyectos
 
 ## Elemento Cafe | 2020-presente
 <a href="https://www.instagram.com/elementocafe/">
@@ -39,17 +30,32 @@ Elemento es mi propia marca de cafe tostado que vendo a cafeterias y restaurante
 Creo que un buen café lo merecemos todos, sin un sobreprecio.  
 Para información y pedidos, mándame un correo por [ariadna.chaparro@yahoo.com.mx](mailto:ariadna.chaparro@yahoo.com.mx)
 
+## Constela | 2019-presente
+<a href="https://www.instagram.com/constelacafe/?hl=en">
+<img src="/assets/images/constela-cafe-logo-green-pronto.png" alt="Constela Cafe Logo" style="width:150px">
+</a>
+
+Constela es una cafetería de especialidad comprometida tanto en servicio como en dar la mejor taza a cada cliente. Tenemos dos sucursales, uno por Ferrocarril de Cuernavaca en Polanco y uno por Colima en Roma Nte.  
+Trabaje hace el comienzo en el concepto y calidad de bebidas y actualmente soy Barista Trainer, Imagen de la Marca y Gerente de Tostar.  
+Para mas información nos visitamos por Instagram [@constelacafe](https://www.instagram.com/constelacafe/?hl=en)
+
+
 # Experiencia Pasada
-* __Starbucks \| 2011-2015__
-  * Barista/marketing campañas de posicionamiento de marca en eventos de patrocinio
 * __San Remo Latin \| 2015-2019__
   * Creación de concepto y gerente de Centro Café
   * Barista Trainer en School of Coffee Matters 
+* __Starbucks \| 2011-2015__
+  * Barista/marketing campañas de posicionamiento de marca en eventos de patrocinio
+
 
 # Entrevistas
 * [ Chilango ](https://www.chilango.com/comida/a-que-sabe-un-buen-cafe-ariadna-chaparro-campeona-barista-responde/)
 * [ Meganoticias ](https://www.meganoticias.mx/tepic/noticia/ariadna-chaparro-barista-campeona-fiel-al-cafe-nacional/39609)
 * [ Café de Especialidad Mx ](https://www.youtube.com/watch?v=Uzjo9WceM7k)
+* [Food and Wine](https://www.pressreader.com/mexico/food-wine-en-espanol/20190601/282291026815757)
+* [Bartista Magazine](https://www.baristamagazine.com/10-minutes-with-mexican-barista-champion-ariadna-chaparro/)
+* [El Universal](https://www.eluniversal.com.mx/menu/como-elegir-el-cafe-ideal/)
+* [14 Líderes de La Industria Gastronómica](https://www.eluniversal.com.mx/menu/las-mujeres-mexicanas-y-la-alimentacion/)
 
 # Educación
 
