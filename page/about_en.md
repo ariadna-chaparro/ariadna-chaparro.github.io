@@ -6,7 +6,7 @@ title: About
 
 <img src="/assets/images/Ariadna-Chaparro_barista-1024x576.jpg" alt="Portrait of Ariadna Chaparro" style="width:90vw">
 
-<p style="font-size:30px;font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;">Coffee Roaster for Elemento Cafe, Barista Champion and Barista Trainer (AST) </p>
+<p style="font-size:30px;font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;">Roaster at Espanglish Coffee Roasters, National Barista Champion and Barista Trainer (AST) </p>
 
 # Awards
 ## World Barista Championship
@@ -18,24 +18,21 @@ __2017__ | __1st Place__
 2018 | 2nd Place  
 2022 | 2nd Place  
 2023 | 3rd Place  
+2025 | 2nd Place  
+
+## Mexican Coffee in Good Spirits Competition
+2025 | 3rd Place
 
 # Projects
 
-## Elemento Cafe | 2020-present
-<a href="https://www.instagram.com/elementocafe/">
-<img src="/assets/images/elemento.png" alt="Constela Cafe Logo" style="width:150px">
+## Espanglish Coffee Roasters | 2025-present
+<a href="https://espanglish.cafe/">
+<img src="/assets/images/espanglish-logo.svg" alt="Espanglish Coffee Roasters logo" style="width:150px">
 </a>  
-Elemento is my personal brand of roasted coffee that I sill to cafes and restaurants.  
+Espanglish is my specialty coffee shop and roastery in San Miguel Chapultepec, Mexico City (formerly Elemento Cafe, my own roasted-coffee brand since 2020). We roast on-site, make any drink with any bean, and run barista classes and tasting experiences.  
 I believe that everyone deserves a good cup of coffee, without it being expensive.  
+More information: [espanglish.cafe](https://espanglish.cafe/) · [@espanglish_cafe](https://www.instagram.com/espanglish_cafe)  
 For information and orders, send me an email at [ariadna.chaparro@yahoo.com.mx](mailto:ariadna.chaparro@yahoo.com.mx)
-
-## Constela | 2019-present
-<a href="https://www.instagram.com/constelacafe/?hl=en">
-<img src="/assets/images/constela-cafe-logo-green-pronto.png" alt="Constela Cafe Logo" style="width:150px">
-</a>  
-Constela is a specialty coffee shop committed to both excellent service and giving the best cup of coffee to each customer. There are two locations in Mexico City, one on Ferrocarril de Cuernavaca in Polanco and another on Colima in Roma Norte.  
-I've worked there since it's inception on the concept and quality of coffee and now I am a Barista Trainer, Brand Ambassador y Head Roaster.  
-More Information [@constelacafe](https://www.instagram.com/constelacafe/?hl=en)
 
 # Collaborations
 * Oster
@@ -47,6 +44,10 @@ More Information [@constelacafe](https://www.instagram.com/constelacafe/?hl=en)
 
 
 # Past Experience
+* __Constela \| 2019-2025__
+  * Barista Trainer, brand image and Head Roaster at this specialty coffee shop
+* __Elemento Cafe \| 2020-2025__
+  * Own roasted-coffee brand, now Espanglish
 * __San Remo Latin \| 2015-2019__
   * Concept creator and manager at Centro Café
   * Barista Trainer at School of Coffee Matters 

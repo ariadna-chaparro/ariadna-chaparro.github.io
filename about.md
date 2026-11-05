@@ -6,7 +6,7 @@ permalink: /
 
 <img src="/assets/images/Ariadna-Chaparro_barista-1024x576.jpg" alt="Portrait of Ariadna Chaparro" style="width:90vw">
 
-<p style="font-size:30px;font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;"> Tostador por Elemento Cafe, Campeon Nacional Barista, y Barista Trainer (AST) </p>
+<p style="font-size:30px;font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;"> Tostadora en Espanglish Coffee Roasters, Campeona Nacional Barista, y Barista Trainer (AST) </p>
 
 # Premios
 ## World Barista Championship
@@ -18,25 +18,21 @@ __2017__ | __1° Lugar__
 2018 | 2° Lugar
 2022 | 2° Lugar    
 2023 | 3° Lugar  
+2025 | 2° Lugar  
+
+## Competencia Mexicana de Coffee in Good Spirits
+2025 | 3° Lugar
 
 # Proyectos
 
-## Elemento Cafe | 2020-presente
-<a href="https://www.instagram.com/elementocafe/">
-<img src="/assets/images/elemento.png" alt="Constela Cafe Logo" style="width:150px">
+## Espanglish Coffee Roasters | 2025-presente
+<a href="https://espanglish.cafe/es">
+<img src="/assets/images/espanglish-logo.svg" alt="Logo de Espanglish Coffee Roasters" style="width:150px">
 </a>  
-Elemento es mi propia marca de cafe tostado que vendo a cafeterias y restaurantes.  
+Espanglish es mi cafetería y tostaduría de café de especialidad en San Miguel Chapultepec, CDMX (antes Elemento Cafe, mi marca de café tostado desde 2020). Tostamos en sitio, preparamos cualquier bebida con cualquier grano, damos clases de barismo y experiencias de cata.  
 Creo que un buen café lo merecemos todos, sin un sobreprecio.  
+Más información: [espanglish.cafe](https://espanglish.cafe/es) · [@espanglish_cafe](https://www.instagram.com/espanglish_cafe)  
 Para información y pedidos, mándame un correo por [ariadna.chaparro@yahoo.com.mx](mailto:ariadna.chaparro@yahoo.com.mx)
-
-## Constela | 2019-presente
-<a href="https://www.instagram.com/constelacafe/?hl=es">
-<img src="/assets/images/constela-cafe-logo-green-pronto.png" alt="Constela Cafe Logo" style="width:150px">
-</a>
-
-Constela es una cafetería de especialidad comprometida tanto en servicio como en dar la mejor taza a cada cliente. Con dos sucursales, uno por Ferrocarril de Cuernavaca en Polanco y uno por Colima en Roma Nte.  
-Planificacion del concepto y calidad de bebidas y actualmente soy Barista Trainer, Imagen de la Marca y Head Roaster.  
-Màs Informacion: [@constelacafe](https://www.instagram.com/constelacafe/?hl=es)
 
 # Collaboraciones
 * Oster
@@ -47,6 +43,10 @@ Màs Informacion: [@constelacafe](https://www.instagram.com/constelacafe/?hl=es)
 * San Remo Coffee Machines
 
 # Experiencia Pasada
+* __Constela \| 2019-2025__
+  * Barista Trainer, imagen de la marca y Head Roaster de esta cafetería de especialidad
+* __Elemento Cafe \| 2020-2025__
+  * Marca propia de café tostado, hoy Espanglish
 * __San Remo Latin \| 2015-2019__
   * Creación de concepto y gerente de Centro Café
   * Barista Trainer en School of Coffee Matters 
