@@ -29,7 +29,7 @@ __2017__ | __1° Lugar__
 <a href="https://espanglish.cafe/es">
 <img src="/assets/images/espanglish-logo.svg" alt="Logo de Espanglish Coffee Roasters" style="width:150px">
 </a>  
-Espanglish es mi cafetería y tostaduría de café de especialidad en San Miguel Chapultepec, CDMX (antes Elemento Cafe, mi marca de café tostado desde 2020). Tostamos en sitio, preparamos cualquier bebida con cualquier grano, damos clases de barismo y experiencias de cata.  
+Espanglish es mi cafetería y tostaduría de café de especialidad en San Miguel Chapultepec, CDMX. Tostamos en sitio, preparamos cualquier bebida con cualquier grano, damos clases de barismo y experiencias de cata.  
 Creo que un buen café lo merecemos todos, sin un sobreprecio.  
 Más información: [espanglish.cafe](https://espanglish.cafe/es) · [@espanglish_cafe](https://www.instagram.com/espanglish_cafe)  
 Para información y pedidos, mándame un correo por [ariadna.chaparro@yahoo.com.mx](mailto:ariadna.chaparro@yahoo.com.mx)
@@ -45,8 +45,8 @@ Para información y pedidos, mándame un correo por [ariadna.chaparro@yahoo.com.
 # Experiencia Pasada
 * __Constela \| 2019-2025__
   * Barista Trainer, imagen de la marca y Head Roaster de esta cafetería de especialidad
-* __Elemento Cafe \| 2020-2025__
-  * Marca propia de café tostado, hoy Espanglish
+* __[Elemento Cafe](https://www.instagram.com/elementocafe/) \| 2020-2025__
+  * Marca propia de café tostado
 * __San Remo Latin \| 2015-2019__
   * Creación de concepto y gerente de Centro Café
   * Barista Trainer en School of Coffee Matters 

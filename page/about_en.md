@@ -29,7 +29,7 @@ __2017__ | __1st Place__
 <a href="https://espanglish.cafe/">
 <img src="/assets/images/espanglish-logo.svg" alt="Espanglish Coffee Roasters logo" style="width:150px">
 </a>  
-Espanglish is my specialty coffee shop and roastery in San Miguel Chapultepec, Mexico City (formerly Elemento Cafe, my own roasted-coffee brand since 2020). We roast on-site, make any drink with any bean, and run barista classes and tasting experiences.  
+Espanglish is my specialty coffee shop and roastery in San Miguel Chapultepec, Mexico City. We roast on-site, make any drink with any bean, and run barista classes and tasting experiences.  
 I believe that everyone deserves a good cup of coffee, without it being expensive.  
 More information: [espanglish.cafe](https://espanglish.cafe/) · [@espanglish_cafe](https://www.instagram.com/espanglish_cafe)  
 For information and orders, send me an email at [ariadna.chaparro@yahoo.com.mx](mailto:ariadna.chaparro@yahoo.com.mx)
@@ -46,8 +46,8 @@ For information and orders, send me an email at [ariadna.chaparro@yahoo.com.mx](
 # Past Experience
 * __Constela \| 2019-2025__
   * Barista Trainer, brand image and Head Roaster at this specialty coffee shop
-* __Elemento Cafe \| 2020-2025__
-  * Own roasted-coffee brand, now Espanglish
+* __[Elemento Cafe](https://www.instagram.com/elementocafe/) \| 2020-2025__
+  * Own roasted-coffee brand
 * __San Remo Latin \| 2015-2019__
   * Concept creator and manager at Centro Café
   * Barista Trainer at School of Coffee Matters 
