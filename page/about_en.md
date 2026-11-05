@@ -6,7 +6,7 @@ title: About
 
 <img src="/assets/images/Ariadna-Chaparro_barista-1024x576.jpg" alt="Portrait of Ariadna Chaparro" style="width:90vw">
 
-<p style="font-size:30px;font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;">Roaster at Espanglish Coffee Roasters, National Barista Champion and Barista Trainer (AST) </p>
+<p style="font-size:30px;font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;">Roaster and owner of Espanglish Coffee Roasters, National Barista Champion and Barista Trainer (AST) </p>
 
 # Awards
 ## World Barista Championship

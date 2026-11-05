@@ -6,7 +6,7 @@ permalink: /
 
 <img src="/assets/images/Ariadna-Chaparro_barista-1024x576.jpg" alt="Portrait of Ariadna Chaparro" style="width:90vw">
 
-<p style="font-size:30px;font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;"> Tostadora en Espanglish Coffee Roasters, Campeona Nacional Barista, y Barista Trainer (AST) </p>
+<p style="font-size:30px;font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;"> Tostadora y dueña de Espanglish Coffee Roasters, Campeona Nacional Barista, y Barista Trainer (AST) </p>
 
 # Premios
 ## World Barista Championship
